@@ -230,7 +230,7 @@
         android:id="@+id/productCard3"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:elevation="@dimen/ten_dpdp"
+        android:elevation="@dimen/ten_dp"
         app:cardCornerRadius="@dimen/ten_dp"
         android:layout_marginTop="@dimen/twelve_dp"
         android:layout_marginStart="@dimen/activity_horizontal_margin"
