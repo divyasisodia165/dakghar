@@ -11,35 +11,35 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:background="@color/white"
-        android:elevation="@dimens/ten_dp">
+        android:elevation="@dimen/ten_dp">
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginStart="@dimens/hundred_forty_dp"
-            android:layout_marginTop="@dimens/fifteen_dp"
-            android:layout_marginEnd="@dimens/ten_dp"
+            android:layout_marginStart="@dimen/hundred_forty_dp"
+            android:layout_marginTop="@dimen/fifteen_dp"
+            android:layout_marginEnd="@dimen/ten_dp"
             android:text="dg-Niryat"
             android:textColor="@color/red"
-            android:textSize="@dimens/forty_dp" />
+            android:textSize="@dimen/forty_dp" />
 
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginStart="@dimens/hundred_forty_dp"
-            android:layout_marginTop="@dimens/three_dp"
-            android:layout_marginEnd="@dimens/ten_dp"
+            android:layout_marginStart="@dimen/hundred_forty_dp"
+            android:layout_marginTop="@dimen/three_dp"
+            android:layout_marginEnd="@dimen/ten_dp"
             android:text="Local Goes Global"
             android:textColor="@color/red"
-            android:textSize="@dimens/twenty_dp" />
+            android:textSize="@dimen/twenty_dp" />
 
         <ImageView
-            android:layout_width="@dimens/hundred_twenty_dp"
-            android:layout_height="@dimens/ninety_dp"
-            android:layout_marginStart="@dimens/ten_dp"
+            android:layout_width="@dimen/hundred_twenty_dp"
+            android:layout_height="@dimen/ninety_dp"
+            android:layout_marginStart="@dimen/ten_dp"
             android:layout_marginTop="-80dp"
-            android:layout_marginEnd="@dimens/ten_dp"
-            android:layout_marginBottom="@dimens/ten_dp"
+            android:layout_marginEnd="@dimen/ten_dp"
+            android:layout_marginBottom="@dimen/ten_dp"
             android:src="@drawable/dnk2" />
     </com.google.android.material.appbar.AppBarLayout>
 
@@ -49,41 +49,41 @@
         app:cardCornerRadius="19dp">
 
         <ImageView
-            android:layout_width="@dimens/hundred_twenty_dp"
+            android:layout_width="@dimen/hundred_twenty_dp"
             android:layout_height="87dp"
             android:layout_marginStart="139.5dp"
-            android:layout_marginTop="@dimens/forty_five_dp"
+            android:layout_marginTop="@dimen/forty_five_dp"
             android:src="@drawable/mail" />
 
         <TextView
             android:layout_width="180dp"
-            android:layout_height="@dimens/thirty_five_dp"
+            android:layout_height="@dimen/thirty_five_dp"
             android:layout_gravity="center"
             android:layout_marginTop="-115dp"
             android:text="Verify  Email"
             android:textColor="@color/red"
-            android:textSize="@dimens/thirty_sp"
+            android:textSize="@dimen/thirty_sp"
             android:textStyle="bold" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="@dimens/ten_dp"
+            android:layout_marginStart="@dimen/ten_dp"
             android:layout_marginTop="282dp"
             android:gravity="center"
             android:text="Please check your email for a verification link, use it to verify your account, and then click the REFRESH button."
             android:textAlignment="center"
             android:textColor="@color/skyblue"
-            android:textSize="@dimens/fifteen_dp"
+            android:textSize="@dimen/fifteen_dp"
             android:textStyle="italic" />
 
 
         <androidx.appcompat.widget.AppCompatButton
             android:id="@+id/refresh_email"
-            android:layout_width="@dimens/two_hundred_dp"
-            android:layout_height="@dimens/forty_dp"
+            android:layout_width="@dimen/two_hundred_dp"
+            android:layout_height="@dimen/forty_dp"
             android:layout_gravity="center"
-            android:layout_marginTop="@dimens/hundred_fifty_dp"
+            android:layout_marginTop="@dimen/hundred_fifty_dp"
             android:background="@drawable/buttonrefresh_bg"
             android:text="Verify" />
 

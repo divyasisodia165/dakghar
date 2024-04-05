@@ -15,7 +15,7 @@
 
     <Button
         android:layout_width="match_parent"
-        android:layout_height="@dimens/fifty_dp"
+        android:layout_height="@dimen/fifty_dp"
         android:layout_alignParentBottom="true"
         android:id="@+id/scanButton"
         android:text="Scan"/>
@@ -28,7 +28,7 @@
         android:text="jsdjfjsd"
         android:layout_centerHorizontal="true"
         android:textColor="@color/white"
-        android:layout_margin="@dimens/ten_dp"
-        android:textSize="@dimens/eighteen_sp"/>
+        android:layout_margin="@dimen/ten_dp"
+        android:textSize="@dimen/eighteen_sp"/>
 
 </RelativeLayout>
