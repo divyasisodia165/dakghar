@@ -35,7 +35,6 @@ User/Business Profile
 Integration with Navigation App
 
 
-
 The Dak Ghar Niryat Kendra (DNK) initiative appears to be a promising effort to facilitate exports for small and medium-sized enterprises (SMEs) in India. However, there are some potential show stoppers or challenges that need to be addressed to ensure its success and broader adoption:
 
 **Lack of Digital Infrastructure:** Many small traders, artisans, and MSMEs may lack the necessary digital infrastructure and skills to create and manage web portals for displaying their products and accepting international e-commerce orders. The absence of these capabilities can be a significant barrier to entry.
